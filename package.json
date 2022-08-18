@@ -1,0 +1,19 @@
+{
+  "name": "floridaliscensee_scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^16.1.1",
+    "qs": "^6.11.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
